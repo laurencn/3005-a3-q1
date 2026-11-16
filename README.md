@@ -11,3 +11,5 @@
 4. run the script in terminal:
    ```bash
    python app.py
+
+demo video: https://youtu.be/8x5L2sXA7Ls
